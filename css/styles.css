@@ -1,0 +1,11 @@
+body{
+    background-image:url("../img/backgrounds/h_img.jpg");
+    background-size:cover;
+}
+.logo-image{
+    color: antiquewhite;
+    align-content: center;
+    text-align: center;
+    margin: 430px;
+    font: bold;
+}
