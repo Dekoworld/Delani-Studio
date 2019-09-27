@@ -1,11 +1,9 @@
-body{
+body .logo-image{
     background-image:url("../img/backgrounds/h_img.jpg");
     background-size:cover;
-    background-position: 100%;
-    padding: 40px;
+    background-repeat: no-repeat;
 }
 .logo-image{
     text-align: center;
-    margin-top: 50px;
     color: antiquewhite;
 }
