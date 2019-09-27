@@ -23,3 +23,7 @@ text-align: center;
     align-content: center;
     text-align: center;
 }
+.card{
+    background-image: url("../img/backgrounds/c_image.jpg");
+    text-align: center;
+}
