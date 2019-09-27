@@ -1,11 +1,11 @@
 body{
     background-image:url("../img/backgrounds/h_img.jpg");
     background-size:cover;
+    background-position: 100%;
+    padding: 40px;
 }
 .logo-image{
-    color: antiquewhite;
-    align-content: center;
     text-align: center;
-    margin: 430px;
-    font: bold;
+    margin-top: 50px;
+    color: antiquewhite;
 }
