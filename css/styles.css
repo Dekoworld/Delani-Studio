@@ -1,9 +1,19 @@
-body .logo-image{
-    background-image:url("../img/backgrounds/h_img.jpg");
-    background-size:cover;
-    background-repeat: no-repeat;
-}
 .logo-image{
     text-align: center;
+    color: antiquewhite;
+    background-image:url("../img/backgrounds/h_img.jpg");
+    background-size:cover;
+}
+.info{
+text-align: center;
+}
+.info img{
+    background-size: cover;
+    height: 350px;
+}
+.info-2{
+    background-image: url("../img/backgrounds/s_image.jpg");
+    background-size: 1350px;
+    background-repeat: no-repeat;
     color: antiquewhite;
 }
