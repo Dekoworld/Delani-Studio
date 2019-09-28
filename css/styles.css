@@ -4,7 +4,7 @@
     background-image:url("../img/backgrounds/h_img.jpg");
     background-size:cover;
     width:100%;
-    height: 500px;
+    height: 780px;
 }
 .info{
 text-align: center;
@@ -19,17 +19,9 @@ text-align: center;
     background-repeat: no-repeat;
     color: antiquewhite;
 }
-.container{
-    align-content: center;
+h2{
     text-align: center;
 }
-.card{
-    background-image: url("../img/backgrounds/c_image.jpg");
-    text-align: center;
-}
-.icons{
-    text-align: center;
-}
-.footer{
+.row{
     text-align: center;
 }
