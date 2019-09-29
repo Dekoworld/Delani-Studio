@@ -42,4 +42,7 @@ h2{
 .contact{
   background-image: url("../img/backgrounds/c_image.jpg");
   background-size: cover;
+  text-align: center;
+  padding: 95px;
+  color: antiquewhite;
 }
