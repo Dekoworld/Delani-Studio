@@ -25,3 +25,21 @@ h2{
 .row{
     text-align: center;
 }
+.row1{
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 280px 280px 280px 280px;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.row2{
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 280px 280px 280px 280px;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.contact{
+  background-image: url("../img/backgrounds/c_image.jpg");
+  background-size: cover;
+}

@@ -17,12 +17,3 @@
 
 
 
-<div class="contact">
-          <h4>CONTACT US</h4>
-          <form>
-            <input style="background-color: transparent" type="text" placeholder="Name.." name="Name">
-            <input style="background-color: transparent" type="text" placeholder="Email.." name="Email"><br>
-            <textarea style="background-color: transparent" name="" id="Your message here....." cols="80" rows="5">Your message here</textarea>
-          </form>
-        </div>
-        </div><br><br>
