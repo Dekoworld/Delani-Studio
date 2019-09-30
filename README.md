@@ -1,16 +1,19 @@
 <<<<<<< HEAD
-# portfoliopage
-My portfolio site.Contains all you need to know about me and more i.e Experience,hobbies and much more.
-# Myportfolio
+# Delani Studios
+
+## Authors
+- [Derrick Karitu](https://github.com/Dekoworld)
+- A clickable username. It should point to you to my GitHub account.
+- email: karituderrick@gmail.com 
+-tel 0703265410
+# About project
 =======
+
 # Hero-Akan
 A web-application that basically outputs the exact day of the week a user was born once 
 the dates of  birth are input.Giving name in AKAN ( Ghananian naming method).
 >>>>>>> 7f97c353449bb73782fa6e239157a4a5e04fcf10
 
-## Authors
-- [Derrick Karitu](https://github.com/Dekoworld)
-- A clickable username. It should point to you to my GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:

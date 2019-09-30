@@ -58,9 +58,12 @@ h4{
 .footer{
   text-align: center;
 }
-img {
+.p1{
   display: none;
 }
-.walrus-showing {
+.p2{
+  display: none;
+}
+.p3{
   display: none;
 }
