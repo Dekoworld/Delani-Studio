@@ -9,9 +9,8 @@
     <script src="https://code.jquery.com/jquery-3.4.1.js"
     integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
     crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="js/scripts.js">
+    <script rel="stylesheet" src="./js/scripts.js"></script>
 </head>
-
 
 <body>
     <div class="container-fluid">
@@ -38,39 +37,29 @@
       </div>
       </div>
 
-
-      <div class="container">
+      <div class="container-fluid">
         <h2>WHAT WE DO</h2><br>
         <div class="row">
-          <div class="col-sm-4">
-            <div class="img1">
-              <div class="img2">
-                <img src="./img/services_icons/design_icon.png" alt="services_icons" id="design">
-              </div>
-              </div>
+          <div class="col-sm-4  design-c">
+           <img src="./img/services_icons/design_icon.png" alt="services_icons" id="design-image">
                 <h4>DESIGN</h4>
-            <p>Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing. Throughout your project, our designers create and implement visual design and workflows, solicit
+             <p id="design-para">Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing. Throughout your project, our designers create and implement visual design and workflows, solicit
                user feedback and work with you to make sure what gets built is what is needed.</p>
-          </div>
-
-            <div class="col-sm-4">
-                  <img src="./img/services_icons/dev_icon.png" alt="services_icons" id="devpt">
+            </div>
+          <div class="col-sm-4 devpt-c">
+                  <img src="./img/services_icons/dev_icon.png" alt="services_icons" id="devpt-image">
                   <h4>DEVELOPMENT</h4>
-                <p>All engineers are fluent in the latest enterprise, mobile and web development technologies. They collaborate with your team to write, and improve code on a daily 
+                <p id="devpt-para">All engineers are fluent in the latest enterprise, mobile and web development technologies. They collaborate with your team to write, and improve code on a daily 
                   basis, using proven practices such as test-driven development and pair programming.</p>
             </div>
-
-            <div class="col-sm-4">
-              <div class="img3">
-                  <img src="./img/services_icons/product_icon.png" alt="services_icons" id="prdt">
-                </div>
+            <div class="col-sm-4 prdt-c">
+                  <img src="./img/services_icons/product_icon.png" alt="services_icons" id="prdt-image">
                   <h4>PRODUCT MANAGEMENT</h4>
-                <p>Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live.
+                <p id="prdt-para">Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live.
                    This iterative process allows for changes as business requirements evolve..</p>
             </div>
+            </div>
       </div>
-      </div>
-
 
       <div class="portfolio">
       <h4>PORTFOLIO</h4>
@@ -128,7 +117,7 @@
                   <textarea style="background-color: transparent" type="text" placeholder="Name.." name="Name" cols="40"></textarea>
                   <textarea style="background-color: transparent" type="text" placeholder="Email.." name="Email" cols="40"></textarea><br><br>
                   <textarea style="background-color: transparent" placeholder="Your message here" id="Your message here....." cols="80" rows="8"></textarea>
-                  <input type="submit" value="Submit" id="name">
+                  <button type="submit" class="btn btn-default bt"  onclick="myFunction()" style="align:right;">submit</button>
                 </form>
       </div>  
 

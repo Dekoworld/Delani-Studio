@@ -58,15 +58,11 @@ h4{
 .footer{
   text-align: center;
 }
-.p1{
+#design-para, #devpt-para, #prdt-para{
   display: none;
 }
-.p2{
-  display: none;
-}
-.p3{
-  display: none;
-}
+
+
 .pic1:hover{
   opacity: 0.4;
 }
