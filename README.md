@@ -9,9 +9,10 @@
 # About project
 =======
 
-# Hero-Akan
-A web-application that basically outputs the exact day of the week a user was born once 
-the dates of  birth are input.Giving name in AKAN ( Ghananian naming method).
+# DELANI STUDIO
+A website that ensures well designed products.Our approach unifies design,development and product management to create exceptional products.
+We start each project by understanding your business goals,the user needs and the product requirements.
+Then we help translate them into effective and elagant solutions.
 >>>>>>> 7f97c353449bb73782fa6e239157a4a5e04fcf10
 
 
@@ -19,14 +20,11 @@ the dates of  birth are input.Giving name in AKAN ( Ghananian naming method).
 To start using this project use the following commands:
 
 <<<<<<< HEAD
-- `git clone https://github.com/Dekoworld/portfoliopage.git`
-- `cd Myportfolio`
+- `https://github.com/Dekoworld/Delani-Studio.git`
+- `cd Delani-studio`
 - `code .`
 
 =======
-- `git clone https://github.com/Dekoworld/Hero-Akan.git`
-- `cd Hero-Akan`
-- `code .`
 
 ##Languages used
 HTML,CSS & JS used
@@ -58,3 +56,4 @@ SOFTWARE.
 =======
 
 >>>>>>> 7f97c353449bb73782fa6e239157a4a5e04fcf10
+
