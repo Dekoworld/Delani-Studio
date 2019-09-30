@@ -1,11 +1,11 @@
 $(document).ready(function(){
   $("#design").click(function(){
-    $("#design").hide();
-    $(".p1").show();
+    $("#design").toggle();
+    $(".p1").toggle();
   });
   $(".p1").click(function(){
-     $(".p1").hide();
-     $("#design").show();
+     $(".p1").toggle();
+     $("#design").toggle();
   });
 
   $("#devpt").click(function(){
